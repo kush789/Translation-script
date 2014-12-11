@@ -16,4 +16,3 @@ A python script that uses the Yandex API to translate a given phrase. Supports 1
 - Turkish
 - Romanian
 - Serbian
--
